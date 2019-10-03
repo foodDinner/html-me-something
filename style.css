@@ -1,0 +1,21 @@
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(227, 229, 233);
+}
+#behold {
+    color: rgb(255, 69, 0);
+    font-size: 56px;
+}
+.button {
+    background-color:rgb(12, 70, 179);
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 10px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: rgb(25, 62, 129);
+}
