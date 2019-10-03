@@ -2,10 +2,15 @@
 body {
     font-family: sans-serif;
     background-color: rgb(227, 229, 233);
+    padding: 10px;
+}
+p,h1,h2,article {
+    margin: 10px;
 }
 #behold {
     color: rgb(255, 69, 0);
     font-size: 56px;
+    margin-left: 110px;
 }
 .button {
     background-color:rgb(12, 70, 179);
