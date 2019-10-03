@@ -19,3 +19,9 @@ body {
 .button:hover {
     background-color: rgb(25, 62, 129);
 }
+#unending {
+    font-size: 2rem;
+}
+#neverending {
+    font-family: cursive;
+}
